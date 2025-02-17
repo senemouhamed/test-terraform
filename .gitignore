@@ -17,6 +17,7 @@ bin-release/
 #terraform
 
 .terraform/
+*.terraform/*
 *.img
 *.tfstate
 *.backup
